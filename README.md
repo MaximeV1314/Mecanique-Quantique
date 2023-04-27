@@ -1,4 +1,4 @@
-# meca_quantique
+# mecanique-quantique
 Dossier de simulations quantiques
 
 Pour créer une animation, créer dans le même dossier que celui du code python un dossier nommé "img_dynamique".
